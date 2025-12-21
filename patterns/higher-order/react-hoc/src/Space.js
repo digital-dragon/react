@@ -1,0 +1,1 @@
+export const Space = () => <p>This is your space</p>
