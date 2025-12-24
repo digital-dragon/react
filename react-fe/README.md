@@ -1,3 +1,9 @@
+# Welcome to React Nasa picture of the day app.
+This project draws inspiration from TechWithTim tutorial Learn React With This ONE Project
+I have used css from the repository https://github.com/techwithtim/Learn-React-In-One-Project
+To run this app locally, please get a Nasa API key
+Enjoy programming!
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
