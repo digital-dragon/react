@@ -16,7 +16,7 @@ export default function PictureCard({picture}) {
         </div>
         <div className="picture-info">
             <h3>{picture.title}</h3>
-            <p>{picture.date?.split("-")[0]}</p>
+            <p>{picture.date}</p>
         </div>
     </div>)
 }
